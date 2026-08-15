@@ -19,9 +19,13 @@ My research interests span adversarial robustness, trustworthy machine learning,
 
 ## Selected Computational Projects
 
+### [Brain Tumor MRI Adversarial Robustness](https://github.com/Ahmeed1983/AhmeedYinusa)
+
+Publication-aligned VGG16 research code for four-class brain-tumor MRI classification under FGSM and PGD attacks, with adversarial training and feature-squeezing defenses. The repository includes paper-to-code mapping, publication parameters, and provenance documentation.
+
 ### [Adversarial Attacks on Deep Learning Models](https://github.com/Ahmeed1983/Adversarial-Attacks-on-Deep-Learning-Model)
 
-DenseNet161-based image classification with FGSM and PGD adversarial attacks, adversarial training, model evaluation, and robustness visualization using PyTorch and PyTorch Lightning.
+DenseNet161-based image classification with FGSM and PGD adversarial attacks, L1/L2/L∞ perturbation analysis, adversarial training, model evaluation, and robustness visualization using PyTorch and PyTorch Lightning.
 
 ### [AIRA: AI Research Assistant](https://github.com/Ahmeed1983/Team-3)
 
