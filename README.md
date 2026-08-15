@@ -1,16 +1,18 @@
 # Ahmeed Adekunle Yinusa
 
-**Computational & Data Scientist | Trustworthy AI | Medical Imaging | Quantum Machine Learning | Healthcare Systems Optimization**
+**Computational & Data Scientist | Trustworthy AI | Medical Imaging | Quantum Machine Learning | Cybersecurity | Cryptography | Finance | Healthcare Systems Optimization**
 
-I am a PhD candidate in Computational & Data Science at Middle Tennessee State University. My research develops computational methods for reliable artificial intelligence, medical imaging, healthcare systems, and complex decision-making problems.
+I am a PhD candidate in Computational & Data Science at Middle Tennessee State University. My research develops computational methods for reliable artificial intelligence, medical imaging, healthcare systems, cybersecurity, financial analytics, and complex decision-making problems.
 
-My research interests span adversarial robustness, trustworthy machine learning, deep learning for medical imaging, quantum machine learning, optimization, system dynamics, and population-health analytics.
+My research interests span adversarial robustness, trustworthy machine learning, deep learning for medical imaging, quantum machine learning, cybersecurity, cryptography and post-quantum security, finance and financial analytics, optimization, system dynamics, and population-health analytics.
 
 ## Research Focus
 
 - Trustworthy AI and adversarial machine learning
 - Deep learning for medical imaging and healthcare
 - Quantum machine learning and noise-robust AI
+- Cybersecurity, cryptography, and post-quantum security
+- Finance, financial analytics, and machine learning for financial decision-making
 - Healthcare systems optimization and operations research
 - System dynamics and computational modeling
 - Population-health and health-disparities analytics
@@ -38,6 +40,8 @@ I use GitHub to present selected computational research and software projects. P
 **Languages:** Python, SQL, R, MATLAB  
 **AI / ML:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face Transformers  
 **Data & Scientific Computing:** NumPy, pandas, SciPy, Jupyter  
+**Cybersecurity & Cryptography:** adversarial machine learning, AI security, cryptographic security, post-quantum security  
+**Finance & Analytics:** financial machine learning, predictive modeling, risk and decision analytics  
 **Optimization & Systems:** Gurobi, system dynamics, simulation, mathematical programming  
 **Software / Data Platforms:** Git, GitHub, Supabase, PostgreSQL, pgvector, React, Vite  
 **Research Methods:** adversarial robustness, explainable AI, medical-image analysis, statistical modeling, optimization, reproducible computational research
@@ -49,4 +53,4 @@ I use GitHub to present selected computational research and software projects. P
 
 ## Current Direction
 
-I am particularly interested in research that integrates trustworthy AI, medical imaging, quantum computing, and healthcare systems, with an emphasis on methods that are technically rigorous, reproducible, and useful in real-world settings.
+I am particularly interested in research that integrates trustworthy AI, medical imaging, quantum computing, cybersecurity, cryptography, finance, and healthcare systems, with an emphasis on methods that are technically rigorous, reproducible, secure, and useful in real-world settings.
