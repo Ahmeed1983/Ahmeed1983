@@ -67,9 +67,9 @@ For a consolidated publication and code-availability overview, see **[Research P
 
 ## Code Availability Policy
 
-I publish research code only when a complete codebase or complete notebook can be confidently associated with the corresponding study. I do not create substitute code simply to make every publication appear to have a repository.
+Public research code is provided only when a complete codebase or complete notebook can be confidently associated with the corresponding study.
 
-For studies without a complete public implementation, researchers may request notebooks, scripts, models, configuration details, or other supporting materials when available and shareable. Availability may depend on data, licensing, coauthor, institutional, or publication restrictions.
+For other studies, researchers are welcome to request notebooks, scripts, models, configuration details, or supporting materials when available and shareable. Availability may depend on data, licensing, coauthor, institutional, or publication restrictions.
 
 ## Selected Computational Projects
 
