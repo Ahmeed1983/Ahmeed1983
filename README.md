@@ -22,7 +22,7 @@ My research interests span adversarial robustness, trustworthy machine learning,
 ### Peer-Reviewed Journal Articles
 
 **A Multi-Layered Defense Against Adversarial Attacks in Brain Tumor Classification Using Ensemble Adversarial Training and Feature Squeezing**  
-*Scientific Reports, 2025.* Studies brain-tumor MRI classification under FGSM and PGD attacks and evaluates ensemble adversarial training with feature squeezing. Supporting implementation materials may be requested when available and shareable.
+*Scientific Reports, 2025.* Studies brain-tumor MRI classification under FGSM and PGD attacks and evaluates ensemble adversarial training with feature squeezing. **[Research notebook](https://github.com/Ahmeed1983/AhmeedYinusa/blob/main/notebooks/BRAIN_TUMOR_ADVERSARIAL_ATTACKS.ipynb)** includes VGG16 classification, FGSM and PGD attacks, adversarial training, robustness evaluation, classification reports, confusion matrices, and confidence analysis. Additional supporting materials may be requested when available and shareable.
 
 **Enhancing the Robustness of CNN-Based Lung Cancer Detection Models Against Label-Flipping Poison Attacks Using Defensive Distillation**  
 *Array, 2025.* Examines label-flipping poisoning attacks against CNN-based lung-cancer detection and evaluates defensive distillation for robustness. Supporting implementation materials may be requested when available and shareable.
@@ -72,6 +72,9 @@ Public research code is provided only when a complete codebase or complete noteb
 For other studies, researchers are welcome to request notebooks, scripts, models, configuration details, or supporting materials when available and shareable. Availability may depend on data, licensing, coauthor, institutional, or publication restrictions.
 
 ## Selected Computational Projects
+
+### [Brain Tumor MRI Adversarial Robustness](https://github.com/Ahmeed1983/AhmeedYinusa/blob/main/notebooks/BRAIN_TUMOR_ADVERSARIAL_ATTACKS.ipynb)
+VGG16-based four-class brain-tumor MRI classification with FGSM and PGD adversarial attacks, adversarial training, robustness evaluation, confusion-matrix analysis, and prediction-confidence analysis.
 
 ### [Adversarial Attacks on Deep Learning Models](https://github.com/Ahmeed1983/Adversarial-Attacks-on-Deep-Learning-Model)
 DenseNet161-based image classification with FGSM and PGD adversarial attacks, L1/L2/L∞ perturbation analysis, adversarial training, model evaluation, and robustness visualization using PyTorch and PyTorch Lightning.
