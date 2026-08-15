@@ -4,7 +4,7 @@
 
 I am a PhD candidate in Computational & Data Science at Middle Tennessee State University. My research develops computational methods for reliable artificial intelligence, medical imaging, healthcare systems, and complex decision-making problems.
 
-My current interests span adversarial robustness, trustworthy machine learning, deep learning for medical imaging, quantum machine learning, optimization, system dynamics, and population-health analytics.
+My research interests span adversarial robustness, trustworthy machine learning, deep learning for medical imaging, quantum machine learning, optimization, system dynamics, and population-health analytics.
 
 ## Research Focus
 
@@ -18,17 +18,20 @@ My current interests span adversarial robustness, trustworthy machine learning, 
 ## Selected Computational Projects
 
 ### [Adversarial Attacks on Deep Learning Models](https://github.com/Ahmeed1983/Adversarial-Attacks-on-Deep-Learning-Model)
-DenseNet161-based image classification with FGSM and PGD adversarial attacks, adversarial training, model evaluation, and robustness visualization using PyTorch/PyTorch Lightning.
+
+DenseNet161-based image classification with FGSM and PGD adversarial attacks, adversarial training, model evaluation, and robustness visualization using PyTorch and PyTorch Lightning.
 
 ### [AIRA: AI Research Assistant](https://github.com/Ahmeed1983/Team-3)
-A research-assistant application with PDF interaction, retrieval-augmented generation, React/Vite, Supabase, Postgres/pgvector, and AI-backed document workflows.
+
+A research-assistant application supporting PDF interaction, retrieval-augmented generation, semantic retrieval, and AI-assisted document workflows using React, Vite, Supabase, PostgreSQL, and pgvector.
 
 ### [NLP Bias Detection and Mitigation](https://github.com/Ahmeed1983/nlp-bias-mitigation)
-RoBERTa-based toxicity and bias analysis with LIME explainability and evaluation on the Jigsaw toxicity dataset.
+
+RoBERTa-based toxicity and bias analysis incorporating LIME explainability and evaluation using the Jigsaw toxicity dataset.
 
 ## Research Software Principles
 
-I use GitHub to present selected computational research and software projects. Public repositories are curated for readability, reproducibility, and responsible sharing. Research datasets, credentials, restricted materials, and unpublished experimental work are not included unless appropriate for public release.
+I use GitHub to present selected computational research and software projects. Public repositories are curated for readability, reproducibility, and responsible research sharing. Research datasets, credentials, restricted materials, and unpublished experimental work are not included unless appropriate for public release.
 
 ## Technical Areas
 
@@ -46,4 +49,4 @@ I use GitHub to present selected computational research and software projects. P
 
 ## Current Direction
 
-I am particularly interested in research at the intersection of trustworthy AI, medical imaging, quantum computing, and healthcare systems, with an emphasis on methods that are technically rigorous, reproducible, and useful in real-world settings.
+I am particularly interested in research that integrates trustworthy AI, medical imaging, quantum computing, and healthcare systems, with an emphasis on methods that are technically rigorous, reproducible, and useful in real-world settings.
