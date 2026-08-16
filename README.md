@@ -39,7 +39,7 @@ My research interests span adversarial robustness, trustworthy machine learning,
 ### Peer-Reviewed Conference Papers and Abstracts
 
 **AI-Driven Medical Diagnostics with Improved Robustness to Adversarial Perturbations**  
-*International Conference on Artificial Intelligence, Computer, Data Science, and Applications, 2025.* Investigates adversarial robustness in AI-based medical diagnostics. Supporting implementation materials may be requested when available and shareable.
+*International Conference on Artificial Intelligence, Computer, Data Science, and Applications, 2025.* Investigates adversarial robustness in lung-cancer CT classification using FGSM and PGD perturbations, defensive distillation, adversarial training, and robustness evaluation. **[Complete research notebook](https://github.com/Ahmeed1983/AhmeedYinusa/blob/main/notebooks/LUNG_CANCER_ADVERSARIAL_ROBUSTNESS.ipynb)**
 
 **Evaluating Artificial Intelligence Robustness Against FGSM and PGD Adversarial Attacks with L-Norm Perturbations**  
 *Applied Cognitive Computing and Artificial Intelligence, CSCE 2024.* Evaluates DenseNet161 under FGSM and PGD attacks with L1, L2, and L-infinity perturbations and adversarial training. **[Complete research code](https://github.com/Ahmeed1983/Adversarial-Attacks-on-Deep-Learning-Model)**
@@ -72,6 +72,9 @@ Public research code is provided only when a complete codebase or complete noteb
 For other studies, researchers are welcome to request notebooks, scripts, models, configuration details, or supporting materials when available and shareable. Availability may depend on data, licensing, coauthor, institutional, or publication restrictions.
 
 ## Selected Computational Projects
+
+### [Lung Cancer CT Adversarial Robustness](https://github.com/Ahmeed1983/AhmeedYinusa/blob/main/notebooks/LUNG_CANCER_ADVERSARIAL_ROBUSTNESS.ipynb)
+Complete three-class lung CT research notebook using the IQ-OTH/NCCD dataset, SMOTE, FGSM and PGD attacks, defensive distillation, adversarial training, symmetric cross-entropy, and robustness evaluation.
 
 ### [Brain Tumor MRI Adversarial Robustness](https://github.com/Ahmeed1983/AhmeedYinusa/blob/main/notebooks/BRAIN_TUMOR_ADVERSARIAL_ATTACKS.ipynb)
 VGG16-based four-class brain-tumor MRI classification with FGSM and PGD adversarial attacks, adversarial training, robustness evaluation, confusion-matrix analysis, and prediction-confidence analysis.
